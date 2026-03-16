@@ -1,8 +1,6 @@
 # 🛒 Customer Segmentation & RFM Analysis (SQL)
 
-<center>
 ![Customer Segmentation](Visuals/customer_segmentation.png)
-</center>
 
 ---
 
@@ -13,9 +11,8 @@ It includes **data inspection, sales insights, customer segmentation using RFM, 
 ---
 
 ## 💎 RFM Analysis
-<center>
+
 ![RFM Analysis](Visuals/RFM.png)
-</center>
 
 RFM is a **data modeling method used to analyze customer value**.  
 It stands for **Recency, Frequency, and Monetary**, which are the three metrics that describe customers.  
