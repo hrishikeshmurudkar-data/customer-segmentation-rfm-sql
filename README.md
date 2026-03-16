@@ -66,7 +66,7 @@ It includes **data inspection, sales insights, customer segmentation using RFM, 
 ---
 
 ## 🛍 Products Most Often Sold Together
-![Products Most Often Sold](Visuals/product_most_often_sold.png)  
+![Products Most Often Sold](Visuals/products_most_often_sold.png)  
 *Market basket analysis showing products frequently bought together.*
 
 ---
