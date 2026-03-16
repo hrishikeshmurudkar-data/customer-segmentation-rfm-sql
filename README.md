@@ -42,7 +42,7 @@ It includes **data inspection, sales insights, customer segmentation using RFM, 
 ---
 
 ## 🥇 Best Product in USA
-![Best Product USA](Visuals/best_product_usa.png)  
+![Best Product USA](Visuals/best_product_in_usa.png)  
 *Identifies the top-selling product line in the USA.*
 
 ---
