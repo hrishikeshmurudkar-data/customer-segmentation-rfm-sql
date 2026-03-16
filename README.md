@@ -1,7 +1,30 @@
 # 🛒 Customer Segmentation & RFM Analysis (SQL)
 
+<center>
+![Customer Segmentation](Visuals/customer_segmentation.png)
+</center>
+
+---
+
+## Project Overview
 This project performs a **comprehensive sales data analysis** using SQL.  
-It includes **data inspection, sales insights, customer segmentation using RFM, and market basket analysis**.
+It includes **data inspection, sales insights, sales trends by country/city/product/year, and market basket analysis**.
+
+## 💎 RFM Analysis
+<center>
+![RFM Analysis](Visuals/RFM.png)
+</center>
+
+This section highlights **customer segmentation using RFM** (Recency, Frequency, Monetary):  
+- **Recency:** Days since the last purchase  
+- **Frequency:** Number of orders by a customer  
+- **Monetary:** Total value of purchases  
+
+Using these metrics, customers are grouped into segments like **Loyal, Active, Slipping Away, and Lost Customers**.  
+This analysis helps identify **top customers and potential churners**.
+
+---
+
 
 ---
 
