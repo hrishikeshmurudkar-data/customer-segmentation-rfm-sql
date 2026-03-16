@@ -8,23 +8,25 @@
 
 ## Project Overview
 This project performs a **comprehensive sales data analysis** using SQL.  
-It includes **data inspection, sales insights, sales trends by country/city/product/year, and market basket analysis**.
+It includes **data inspection, sales insights, customer segmentation using RFM, and market basket analysis**.
+
+---
 
 ## 💎 RFM Analysis
 <center>
 ![RFM Analysis](Visuals/RFM.png)
 </center>
 
-This section highlights **customer segmentation using RFM** (Recency, Frequency, Monetary):  
-- **Recency:** Days since the last purchase  
-- **Frequency:** Number of orders by a customer  
-- **Monetary:** Total value of purchases  
+RFM is a **data modeling method used to analyze customer value**.  
+It stands for **Recency, Frequency, and Monetary**, which are the three metrics that describe customers.  
+It is an **indexing technique that uses past purchase behavior to segment customers**.
+
+- **Recency:** Last Order Date  
+- **Frequency:** Count of Total Orders  
+- **Monetary:** Total Money Spent
 
 Using these metrics, customers are grouped into segments like **Loyal, Active, Slipping Away, and Lost Customers**.  
 This analysis helps identify **top customers and potential churners**.
-
----
-
 
 ---
 
