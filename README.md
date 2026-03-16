@@ -79,7 +79,7 @@ It includes **data inspection, sales insights, customer segmentation using RFM, 
 
 ---
 
-## 📝 Feedback / Notes
+## 📝 Notes
 - Temporary tables (`#rfm`) help manage intermediate calculations  
 - Visuals (PNGs) make the analysis **portfolio-friendly**  
 - Focus on **top customers / top orders** for clean presentation  
@@ -87,6 +87,19 @@ It includes **data inspection, sales insights, customer segmentation using RFM, 
 
 ---
 
-## 📬 Contact
-- **GitHub:** [hrishikeshmurudkar-data](https://github.com/hrishikeshmurudkar-data)  
-- **LinkedIn:** [hrishikeshmurudkar-data](https://www.linkedin.com/in/hrishikeshmurudkar-data)
+## 💬 Feedback
+
+If you have any feedback or suggestions, feel free to connect with me.
+
+LinkedIn:  
+https://www.linkedin.com/in/hrishikeshmurudkar-data/
+
+---
+
+## 👨‍💻 Author
+
+**Hrishikesh Murudkar**  
+Aspiring Data Analyst  
+
+GitHub:  
+https://github.com/hrishikeshmurudkar-data
